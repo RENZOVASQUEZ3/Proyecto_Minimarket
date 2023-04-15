@@ -1,3 +1,3 @@
 # Proyecto_Minimarket
 
-Prgrama para informacion de productos 
+Prgrama para información de productos 
